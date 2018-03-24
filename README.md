@@ -2,6 +2,7 @@
 ### Meetings: Mondays At 6:30 PM In LB 164
 
 #### Upcoming Events
+
 | Type         | Title                                                   | Date               | Time    |
 |:-------------|:--------------------------------------------------------|:-------------------|:--------|
 | Meeting      | Introduction to Git and Github                          | Monday, March 26th | 6:30 PM |
